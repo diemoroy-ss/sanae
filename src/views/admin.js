@@ -331,7 +331,7 @@ async function loadAgenda() {
 
 // Default services seed (pre-loaded if backend is empty)
 const DEFAULT_SERVICES = [
-  { id:'svc-1', emoji:'💆‍♀️', name:'Masajoterapia',              price:35000, duration:60,  active:true,  description:'Masajes relajantes, descontracturantes y deportivos adaptados a tus necesidades musculares y de bienestar.' },
+  { id:'svc-1', emoji:'💆‍♀️', name:'Masajes',              price:35000, duration:60,  active:true,  description:'Masajes relajantes, descontracturantes y deportivos adaptados a tus necesidades musculares y de bienestar.' },
   { id:'svc-2', emoji:'✨',   name:'Limpieza Facial y Espalda',  price:45000, duration:60,  active:true,  description:'Limpiezas faciales profundas y tratamientos de espalda utilizando aparatología moderna y productos premium.' },
   { id:'svc-3', emoji:'💉',   name:'Sueroterapia',               price:55000, duration:45,  active:true,  description:'Terapias endovenosas y administración de vitaminas y sueros para potenciar tu salud desde adentro.' },
   { id:'svc-4', emoji:'🌿',   name:'Drenaje Linfático',          price:38000, duration:60,  active:true,  description:'Masajes linfáticos para mejorar circulación, reducir inflamación y cuidados post operatorios.' },

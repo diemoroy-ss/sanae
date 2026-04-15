@@ -248,7 +248,7 @@ export function renderLanding() {
       </div>
       <div class="footer-links-col">
         <h4>Servicios</h4>
-        <a href="#servicios">Masajoterapia</a>
+        <a href="#servicios">Masajes</a>
         <a href="#servicios">Limpieza Facial</a>
         <a href="#servicios">Sueroterapia</a>
         <a href="#servicios">Drenaje Linfático</a>
@@ -279,11 +279,11 @@ export function renderLanding() {
 const servicesData = [
   {
     icon: 'fa-spa',
-    title: 'Masajoterapia',
+    title: 'Masajes',
     desc: 'Masajes relajantes, descontracturantes y deportivos adaptados a tus necesidades musculares y de bienestar.',
     bg: '#eef4ff', color: '#1a56db',
     duration: '60 – 90 min',
-    modalTitle: 'Masajoterapia Profesional',
+    modalTitle: 'Masajes Profesionales',
     fullDesc: 'Nuestros masajes terapéuticos son realizados por profesionales certificadas que combinan técnicas internacionales con un profundo conocimiento anatómico. Cada sesión se adapta completamente a tus necesidades, desde la presión hasta el tipo de aceite utilizado.',
     types: [
       { name: 'Masaje Relajante Sueco', desc: 'Técnica de deslizamiento suave y rítmico que libera la tensión acumulada y activa la circulación. Ideal para reducir el estrés, mejorar el sueño y restaurar el equilibrio emocional.' },
